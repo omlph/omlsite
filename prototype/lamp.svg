@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1960px" height="1560px" viewBox="0 0 1960 1560" enable-background="new 0 0 1960 1560" xml:space="preserve">
+<g id="XMLID_249_">
+	<path id="XMLID_252_" fill="#E4E4E4" d="M992.217,0C887.322,0,801.983,85.339,801.983,190.234v40.242h87.8v-40.242
+		c0-56.482,45.952-102.434,102.434-102.434c56.482,0,102.435,45.952,102.435,102.434v40.242h87.8v-40.242
+		C1182.451,85.339,1097.112,0,992.217,0z"/>
+	<path id="XMLID_253_" fill="#C5C5CA" d="M801.983,190.234v40.242h87.8v-40.242c0-56.482,45.952-102.434,102.434-102.434V0
+		C887.322,0,801.983,85.339,801.983,190.234z"/>
+	<rect id="XMLID_254_" x="699.549" y="364.67" fill="#D1E3FA" width="585.335" height="763.268"/>
+	<rect id="XMLID_255_" x="699.549" y="363.502" fill="#C4DFF3" width="585.335" height="763.268"/>
+	<path id="XMLID_256_" fill="#FFFFFF" d="M904.417,329.251v124.384c0,242.454,39.312,439.001,87.8,439.001
+		c48.489,0,87.801-196.547,87.801-439.001V329.251H904.417z"/>
+	<rect id="XMLID_257_" x="699.549" y="363.502" fill="#B4D8F1" width="117.068" height="763.268"/>
+	<rect id="XMLID_258_" x="1167.817" y="363.502" fill="#D1E5F5" width="117.067" height="763.268"/>
+	<path id="XMLID_259_" fill="#DB380E" d="M1401.951,1273.104v-190.234c0-24.244-19.654-43.899-43.9-43.899H626.383
+		c-24.245,0-43.901,19.655-43.901,43.899v190.234H1401.951z"/>
+	<path id="XMLID_260_" fill="#DB380E" d="M582.482,424.368V278.034c0-48.489,39.311-87.8,87.801-87.8h643.868
+		c48.489,0,87.8,39.311,87.8,87.8v146.334H582.482z"/>
+	<path id="XMLID_262_" fill="#DB380E" d="M699.549,190.234h-29.266c-48.49,0-87.801,39.311-87.801,87.8v146.334h117.067V190.234z"/>
+	<path id="XMLID_263_" fill="#DB380E" d="M699.549,1038.97h-73.166c-24.245,0-43.901,19.655-43.901,43.899v190.234h117.067V1038.97z
+		"/>
+</g>
+<rect x="698.549" y="1300.541" fill="none" width="1473.147" height="234.023"/>
+<text transform="matrix(1 0 0 1 698.5488 1444.3398)" fill="#DB380E" font-family="'Helvetica'" font-size="200">CLICK</text>
+</svg>
